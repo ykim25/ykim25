@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yuri</h1>
-<h3 align="center">A design-minded frontend developer based in Los Angeles, CA</h3>
+<h1 align="left">Hi 👋, I'm Yuri</h1>
+<h3 align="left">A design-minded frontend developer based in Los Angeles, CA</h3>
 <img align="right" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ykim25&label=Profile%20views&color=0e75b6&style=flat" alt="ykim25" /> </p>
