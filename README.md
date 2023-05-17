@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ykim25&label=Profile%20views&color=0e75b6&style=flat" alt="ykim25" /> </p>
 
-- 🔭 I’m currently working on [Tech in LA](https://tech-in-la.vercel.app)
+👩🏻‍💻 I’m currently working on [Tech in LA](https://tech-in-la.vercel.app)
 
-- 🌱 I’m currently learning **TypeScript**
+🌱 I’m currently learning **TypeScript**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
+💬 Ask me about **HTML, CSS, JavaScript, React**
 
-- 📫 How to reach me **ymail.kim@gmail.com**
+📫 How to reach me **ymail.kim@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
