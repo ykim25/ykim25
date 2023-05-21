@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ykim25&label=Profile%20views&color=0e75b6&style=flat" alt="ykim25" /> </p>
 
-👩🏻‍💻 I’m currently working on [Tech in LA](https://tech-in-la.vercel.app)
+👩🏻‍💻 I’m currently working on [Tech in LA](https://www.techinla.org/)
 
 🌱 I’m currently learning **TypeScript**
 
