@@ -6,7 +6,7 @@
 
 👩🏻‍💻 I’m currently working on [Tech in LA](https://www.techinla.org/)
 
-🌱 I’m currently learning **TypeScript**
+🌱 I’m currently learning **React Native**
 
 💬 Ask me about **HTML, CSS, JavaScript, React**
 
