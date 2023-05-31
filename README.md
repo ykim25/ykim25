@@ -15,43 +15,6 @@
 <a href="https://linkedin.com/in/linkedin.com/in/kim-yuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/kim-yuri" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <figure>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width: 40px; height: 40px;" />
-  </figure>
-  <figure>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width: 40px; height: 40px;" />
-  </figure>
-  <figure>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 40px; height: 40px;" />
-  </figure>
-  <figure>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width: 40px; height: 40px;" />
-  </figure>
-  <figure>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="width: 40px; height: 40px;" />
-  </figure>
-  <figure>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="width: 40px; height: 40px;" />
-  </figure>
-  <figure>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="width: 40px; height: 40px;" />
-  </figure>
-  <figure>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="width: 40px; height: 40px;" />
-  </figure>
-  <figure>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width: 40px; height: 40px;" />
-  </figure>
-  <figure>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="width: 40px; height: 40px;" />
-  </figure>
-  <figure>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="width: 40px; height: 40px;" />
-  </figure>
-</div>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ykim25&show_icons=true&locale=en&layout=compact" alt="ykim25" /></p>
 
